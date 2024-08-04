@@ -73,4 +73,10 @@ body {
     top: 10px;
     right: 10px;
     cursor: pointer;
+    transition: 0.4s;
+}
+
+#closeBtn:hover {
+    background-color: #969696;
+    color: #fff;
 }
